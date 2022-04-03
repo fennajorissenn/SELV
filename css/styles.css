@@ -6,13 +6,13 @@
 
 body {
 	font-family: Raleway, sans-serif;
-	background-color: #fffcf8;
+	background-color: #FDE5DE;
 }
 
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #8B3D3C;
 }
 
 /* Changing the background color for the navigation bar */
@@ -25,4 +25,6 @@ header {
 
 footer a:hover {
 	opacity: .5;
+}
+.right {
 }
