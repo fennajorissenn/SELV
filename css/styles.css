@@ -11,16 +11,21 @@ body {
 	font-family: Montserrat, sans-serif;
 	background-color: #FDE5DE;
 }
+h3 {color: #FFFFFF}
+h2 {color: #757575}
+h4 {color: #757575}
+p {color: #757575}
 /* Changing the background colour for the header */
 
 header {
+	font-family: Montserrat, sans-serif;
 	background-color: #8B3C3C
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #fff0e0;
+	background-color: #FDE5DE;
 }
 
 /* Effect on social media buttons */
