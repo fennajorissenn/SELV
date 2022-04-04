@@ -14,7 +14,7 @@ body {
 h3 {color: #FFFFFF}
 h2 {color: #731921}
 h4 {color: #757575}
-h5 {color: #731921}
+h5 {color: #FFFFFF}
 p {color: #757575}
 /* Changing the background colour for the header */
 
@@ -22,7 +22,11 @@ header {
 	font-family: Montserrat, sans-serif;
 	background-color: #8B3C3C
 }
-
+.card-body {background-color: #FFFFFF;
+}
+.card-text {color: #E6B5AE}
+.card-title {color: #000000}
+.mt-4 {color: #731921}
 /* Changing the background color for the navigation bar */
 
 .navbar {
