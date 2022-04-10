@@ -20,7 +20,7 @@ p {color: #757575;}
 .Priceproduct {color:#8B3C3C;}
 .textproduct {color:#757575;}
 header {
-	font-family: Montserrat, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	background-color: #8B3C3C;
 }
 .card-body {background-color: #FFFFFF;
@@ -36,8 +36,10 @@ header {
 	background-color: #FDE5DE;
 }
 
+.discounttext{color:#FFFFFF}
+
 .text-center {
-	background-color: #FDE5DE;
+	background-color: #731921;
 } 
 
 /* Effect on social media buttons */
@@ -48,9 +50,36 @@ footer a:hover {
 .quote{
 	font-family: 'Merienda', cursive;
 }
+
+.description {color:#000000;}
+.description1{color:#757575}
+
+.Perfume-title{
+	font-family: 'Montserrat', sans-serif;
+	color: #731921;
+}
 footer {font-family: 'Archivo Narrow', sans-serif;}
 
 .textproduct {
 }
 .Priceproduct {
+	color:#000000
+}
+.Buttonteam {
+}
+.description{color:#000000}
+
+.description1 {color:#757575;
+}
+.Prodes {color:#757575;
+}
+.indes {color:#757575;
+}
+
+.discount{ color:#FFFFFF}
+.discountbody {color:#FFFFFF
+}
+.enddiscount {
+}
+.Footer {background-color: #e6b5ae
 }
