@@ -5,7 +5,7 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Montserrat, sans-serif;
+	font-family: 'Montserrat', sans-serif;;
 	background-color: #FDE5DE;
 }
 h3 {color: #FFFFFF;}
@@ -15,10 +15,13 @@ h5 {color: #FFFFFF;}
 p {color: #757575;}
 /* Changing the background colour for the header */
 
-.visiontext {color:#FFFFFF;}
+.visiontext {color:#FFFFFF;
+font-family: 'Montserrat', sans-serif;}
 
-.Priceproduct {color:#8B3C3C;}
-.textproduct {color:#757575;}
+
+.textproduct {color:#757575;
+font-family: 'Montserrat', sans-serif;}
+
 header {
 	font-family: 'Montserrat', sans-serif;
 	background-color: #8B3C3C;
@@ -36,7 +39,8 @@ header {
 	background-color: #FDE5DE;
 }
 
-.discounttext{color:#FFFFFF}
+.discounttext{color:#FFFFFF; 
+font-family: 'Montserrat', sans-serif;}
 
 .text-center {
 	background-color: #731921;
@@ -50,6 +54,7 @@ footer a:hover {
 .quote{
 	font-family: 'Merienda', cursive;
 }
+.Teamtext{font-family: 'Montserrat', sans-serif;}
 
 .description {color:#000000;}
 .description1{color:#757575}
@@ -62,19 +67,17 @@ footer {font-family: 'Archivo Narrow', sans-serif;}
 
 .textproduct {
 }
-.Priceproduct {
-	color:#000000
+.Priceproduct {color:#000000;
+font-family: 'Montserrat', sans-serif;
 }
 .Buttonteam {
 }
-.description{color:#000000}
+.description{color:#000000;
+font-family: 'Montserrat', sans-serif;}
 
 .description1 {color:#757575;
-}
-.Prodes {color:#757575;
-}
-.indes {color:#757575;
-}
+font-family: 'Montserrat', sans-serif;}
+
 
 .discount{ color:#FFFFFF}
 .discountbody {color:#FFFFFF
@@ -82,4 +85,12 @@ footer {font-family: 'Archivo Narrow', sans-serif;}
 .enddiscount {
 }
 .Footer {background-color: #e6b5ae
+}
+
+.description2 {color:#757575;
+font-family: 'Montserrat', sans-serif;}
+
+.Teamtext {font-family: 'Montserrat', sans-serif;
+}
+.teamtitle {font-family: 'Montserrat', sans-serif;
 }
